@@ -2,10 +2,9 @@
 
 This repository contains the reverse engineering schematic for the Amiga Action Replay III and everything needed to build it.<br>
 <br>
-![alt text](https://github.com/na103/bbar3/blob/main/img/bbar3.png "AR3")
-<br>
-<br>
 <b>ATTENTION! Project not yet verified and tested</b>
+<br>
+![alt text](https://github.com/na103/bbar3/blob/main/IMG/bbar3.png "BBAR3")
 <br>
 <br>
 
@@ -30,6 +29,8 @@ This repository contains the reverse engineering schematic for the Amiga Action 
 |1    |SPDT ON-ON switch   |SW1                              |MHSS1104            |                               |
 <br><br>
 ## Remote control bill of materials
+| Qt. |    Description     |             Designator          |    Mouser part     |             Note              |
+|:---:|--------------------|---------------------------------|--------------------|-------------------------------|
 |1    |Trimmer 10K         |VR1                              |RV09AF-40-20K-B10K  |                               |
 |1    |Button switch red   |SW1                              |D6C40F1LFS          |                               |
 |1    |SPDT ON-ON switch   |SW2                              |2MS1T1B3M2QES       |                               |
