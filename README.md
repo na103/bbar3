@@ -27,7 +27,7 @@ This repository contains the reverse engineering schematic for the Amiga Action 
 |1    |Diode               |D3                               |LL4148-M-18         |                               |
 |1    |2.54MM 10P VERT HDR |J1                               |70246-1004          |                               |
 |1    |SPDT ON-ON switch   |SW1                              |MHSS1104            |                               |
-<br><br>
+
 ## Remote control bill of materials
 | Qt. |    Description     |             Designator          |    Mouser part     |             Note              |
 |:---:|--------------------|---------------------------------|--------------------|-------------------------------|
