@@ -35,7 +35,7 @@ This repository contains the reverse engineering schematic for the Amiga Action 
 |1    |Button switch red   |SW1                              |D6C40F1LFS          |                               |
 |1    |SPDT ON-ON switch   |SW2                              |2MS1T1B3M2QES       |                               |
 |1    |IDC 10pos 6in cable |                                 |HCSD-05-S-06.00-01-N-ST4|                           |
-|2    |2.54MM 10P VERT HDR |J1                               |70246-1004          |                               |
+|1    |2.54MM 10P VERT HDR |J1                               |70246-1004          |                               |
 
 
 <br><br>
