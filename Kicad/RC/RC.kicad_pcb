@@ -1284,6 +1284,66 @@
 		(layer "Edge.Cuts")
 		(uuid "f7e52833-e02f-49dc-b5da-4b4791e344e8")
 	)
+	(gr_text "reverse engineering by na103\ngithub.com/na103/bbar3"
+		(at 140.5 93 -90)
+		(layer "B.SilkS")
+		(uuid "d66e47f8-76cb-4860-86c7-db27e8e5f578")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+"
+		(at 157 110 0)
+		(layer "F.SilkS")
+		(uuid "08239da7-08ee-46d1-82f0-ffd6a7de5e21")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "slow-mo"
+		(at 146 86 0)
+		(layer "F.SilkS")
+		(uuid "891113d2-2021-4478-bdd7-2467be0bc17c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 142 110 0)
+		(layer "F.SilkS")
+		(uuid "9383ea67-5551-4c28-970a-f68aff740d6c")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "OFF"
+		(at 142.5 88 0)
+		(layer "F.SilkS")
+		(uuid "a665a4cb-8d3c-4596-993b-cf6b40e0341c")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.25)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "Amiga Action Replay\nremote control"
 		(at 150 101 0)
 		(layer "F.SilkS")
@@ -1296,16 +1356,16 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "reverse engineering by na103\ngithub.com/na103/bbar3"
-		(at 143 93 90)
+	(gr_text "ON"
+		(at 156.5 88 0)
 		(layer "F.SilkS")
-		(uuid "d66e47f8-76cb-4860-86c7-db27e8e5f578")
+		(uuid "be5859b6-e99e-48b3-81be-6a14020702a2")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.1)
+				(size 2 2)
+				(thickness 0.25)
 			)
-			(justify left bottom)
+			(justify bottom)
 		)
 	)
 	(segment
