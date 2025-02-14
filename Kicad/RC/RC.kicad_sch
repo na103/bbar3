@@ -1271,7 +1271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2"
+		(property "Footprint" "SamacSys_Parts:SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV3"
 			(at 116.84 77.47 0)
 			(effects
 				(font
